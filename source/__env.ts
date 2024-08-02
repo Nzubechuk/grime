@@ -137,11 +137,11 @@ export const feats = [
     subtitle: "Token name: GRIME ($GRIME), Price: $0.00004018, Market Cap: $271,135.86, Current Supply: 3,117,531,550.80",
   
   },
-  {
-    title: "Monitor Your $GRIME",
-    subtitle: "Check out $GRIME/SOL on DEX Screener! https://dexscreener.com/solana/4Fq37QLHK5dNm36NYxZsgbjR6j8moZ866kzzUtWmos2X",
+//   {
+//     title: "Monitor Your $GRIME",
+//     subtitle: "Check out $GRIME/SOL on DEX Screener! https://dexscreener.com/solana/4Fq37QLHK5dNm36NYxZsgbjR6j8moZ866kzzUtWmos2X",
     
-  },
+//   },
 //   {
 //     title: "Support and Training",
 //     subtitle: "Receive dedicated support and comprehensive training to maximize your use of QueueWise and optimize queue management.",
